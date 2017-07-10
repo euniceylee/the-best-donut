@@ -1,4 +1,5 @@
-# A not definitive list of the best donuts Eunice has eaten in the US
+# A not definitive list of the best donuts in the US
+In the future I'd like to go beyond just a list and create some sort of viz or graphic with specific recommendations. Still pondering, but take a gander
 
 ### Chicago
 - Firecakes (get the old fashioned)
