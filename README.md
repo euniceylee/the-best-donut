@@ -1,4 +1,4 @@
-# A list of only the worthy donuts I've eaten around the US
+# A not definitive list of the best donuts Eunice has eaten in the US
 
 ### Chicago
 - Firecakes (get the old fashioned)
@@ -7,11 +7,14 @@
 - Glazed & Infused
 - Doughnut Vault
 
+### New York City
+- Dough Donuts
+
 ### Boston
 - Blackbird doughnuts
 - Union Square Donuts (the maple bacon is to die for)
 
-### Philly
+### Philadelphia
 - Beiler's Bakery (die happy and get the apple fritter)
 - Federal Donuts
 
